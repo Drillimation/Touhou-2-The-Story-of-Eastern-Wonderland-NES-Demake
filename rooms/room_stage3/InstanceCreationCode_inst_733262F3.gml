@@ -1,0 +1,1 @@
+path = path_magic_stone_03;
