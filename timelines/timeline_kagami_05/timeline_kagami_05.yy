@@ -1,0 +1,28 @@
+{
+  "momentList": [
+    {"moment":0,"evnt":{"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":5,"evnt":{"isDnD":false,"eventNum":5,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":20,"evnt":{"isDnD":false,"eventNum":20,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":140,"evnt":{"isDnD":false,"eventNum":140,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":145,"evnt":{"isDnD":false,"eventNum":145,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":150,"evnt":{"isDnD":false,"eventNum":150,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":210,"evnt":{"isDnD":false,"eventNum":210,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":215,"evnt":{"isDnD":false,"eventNum":215,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":220,"evnt":{"isDnD":false,"eventNum":220,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":280,"evnt":{"isDnD":false,"eventNum":280,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":285,"evnt":{"isDnD":false,"eventNum":285,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":290,"evnt":{"isDnD":false,"eventNum":290,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":350,"evnt":{"isDnD":false,"eventNum":350,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":355,"evnt":{"isDnD":false,"eventNum":355,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":360,"evnt":{"isDnD":false,"eventNum":360,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":480,"evnt":{"isDnD":false,"eventNum":480,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"timeline_kagami_05","path":"timelines/timeline_kagami_05/timeline_kagami_05.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+  ],
+  "parent": {
+    "name": "Timelines",
+    "path": "folders/Timelines.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "timeline_kagami_05",
+  "tags": [],
+  "resourceType": "GMTimeline",
+}
