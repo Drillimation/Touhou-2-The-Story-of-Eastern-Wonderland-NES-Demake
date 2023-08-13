@@ -12,7 +12,7 @@ Reimu Hakurei, the series' mascot, is the sole playable character in this game. 
 ## About this repository
 In 2023, Drillimation released the source code for the game. This repository is intended for GameMaker users wanting to develop their own retro style *Touhou Project* fangame or danmaku shooter, or to improve upon its flaws.
 
-This source code is licensed under a Creative Commons Attribution Non-Commercial license (CC-BY-NC). Because the game itself is based on the first actual *Touhou Project* game, we have chosen to release it under that license. For proper use, please see [Drillimation's Game Content and Brand Usage Rules](https://drillimation.com/game-content-and-brand-usage-rules).
+This source code is licensed under a Creative Commons Attribution Non-Commercial license (CC-BY-NC). Because the game itself is based on the second actual *Touhou Project* game, we have chosen to release it under that license. For proper use, please see [Drillimation's Game Content and Brand Usage Rules](https://drillimation.com/game-content-and-brand-usage-rules).
 
 ## Credits
 Original:
